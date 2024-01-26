@@ -1,0 +1,94 @@
+#main
+{
+	width:1000px;
+	height:auto;
+	margin:0 auto;
+}
+#wrapper
+{
+	width:1000px;
+	height:auto;
+	float:left;
+	box-shadow:0px 0px 20px #333333;
+}
+
+#banner
+{
+	width:1000px;
+	height:200px;
+	float:left;
+	background-image:url(../images/books_banner1.jpg);
+}
+#f1
+{
+	width:350px;
+	border:1px solid #039;
+	background-color:#fff;
+	margin-left:600px;
+	margin-top:25px;
+	padding:10px;
+	border-radius:10px;
+}
+#menu
+{
+	width:1000px;
+	height:65px;
+	float:left;
+	background-color:#000;
+}
+#middle
+{
+	width:1000px;
+	min-height:400px;
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#content
+{
+	width:778px;
+	min-height:400px;
+	float:left;
+	border:1px solid #0066FF;
+	margin-left:10px;
+	
+	border-radius:10px;
+}
+
+#content h1
+{
+	font-family:"Arial Black", Gadget, sans-serif;
+	color:#003366;
+	margin-bottom:0px;
+	margin-left:5px;
+}
+.strip_img
+{
+	margin-left:5px;
+	margin-top:0px;
+}
+
+#content p
+{
+	padding-left:5px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#555;
+}
+
+#ad
+{
+	width:190px;
+	min-height:400px;
+	float:right;
+	border:1px solid #FF3300;
+	margin-right:10px;
+	
+	border-radius:10px;
+}
+#bottom
+{
+	width:1000px;
+	height:100px;
+	float:left;
+	background-color:#333333;
+}
